@@ -1,0 +1,16 @@
+# Learning goals only
+
+# SECURITY - Protect sensitive information
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+secret_key.txt
+local_settings.py
+.venv
+
+# Credentials and API keys
+*credentials*.json
+*config*.json
+*.env.*
